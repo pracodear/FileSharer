@@ -1,0 +1,120 @@
+gpg-agent[1050]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[1062]: gpg-agent (GnuPG) 2.1.12 started
+
+(xfce4-session:866): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:866): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/vikrant/.cache/sessions/xfce4-session-EvilNest:0, Does it exist? Permissions issue?
+xfsettingsd: Another clipboard manager is already running.
+No window manager registered on screen 0. To start the xfdesktop without this check, run with --disable-wm-check.
+xfsettingsd: No window manager registered on screen 0.
+
+(xfsettingsd:1101): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+[1557:1557:0926/205832:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Not authorized.
+[1557:1557:0926/205832:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Not authorized.
+[1557:1587:0926/205912:ERROR:ssl_client_socket_impl.cc(1141)] handshake failed; returned -1, SSL error code 1, net_error -100
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+
+(xfce4-clipman:1113): GLib-CRITICAL **: Source ID 153 was not found when attempting to remove it
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+
+(xfce4-clipman:1113): GLib-CRITICAL **: Source ID 219 was not found when attempting to remove it
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+** Message: Cannot save connection due to error: Editor initializing...
+** Message: Connection validates and can be saved
+
+(nm-connection-editor:2705): Gtk-CRITICAL **: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkNotebook
+
+(nm-connection-editor:2705): Gtk-CRITICAL **: gtk_box_gadget_distribute: assertion 'size >= 0' failed in GtkNotebook
+
+(xfce4-clipman:1113): GLib-CRITICAL **: Source ID 223 was not found when attempting to remove it
+
+(xfce4-clipman:1113): GLib-CRITICAL **: Source ID 236 was not found when attempting to remove it
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+[0000000000971148] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory
+Failed to open VDPAU backend libvdpau_va_gl.so: cannot open shared object file: No such file or directory
+[3371:3371:0926/215046:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Not authorized.
+[3371:3371:0926/215046:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Not authorized.
+
+(xfwm4:1075): Gdk-WARNING **: gdkproperty-x11.c:325 invalid X atom: 374
+
+(xfce4-clipman:1113): GLib-CRITICAL **: Source ID 244 was not found when attempting to remove it
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+21:52:16: Warning: Mismatch between the program and library build versions detected.
+The library used 3.0 (wchar_t,compiler with C++ ABI 1009,wx containers,compatible with 2.8),
+and your program used 3.0 (wchar_t,compiler with C++ ABI 1010,wx containers,compatible with 2.8).
+
+(xfce4-clipman:1113): GLib-CRITICAL **: Source ID 247 was not found when attempting to remove it

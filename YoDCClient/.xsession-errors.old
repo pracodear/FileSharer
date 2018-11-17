@@ -1,0 +1,41 @@
+gpg-agent[808]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent[809]: gpg-agent (GnuPG) 2.1.12 started
+
+(xfce4-session:800): xfce4-session-WARNING **: gpg-agent returned no PID in the variables
+
+(xfce4-session:800): xfce4-session-WARNING **: xfsm_manager_load_session: Something wrong with /home/vikrant/.cache/sessions/xfce4-session-EvilNest:0, Does it exist? Permissions issue?
+xfsettingsd: Another clipboard manager is already running.
+No window manager registered on screen 0. To start the xfdesktop without this check, run with --disable-wm-check.
+xfsettingsd: No window manager registered on screen 0.
+
+(xfsettingsd:822): xfsettingsd-WARNING **: Failed to get the _NET_NUMBER_OF_DESKTOPS property.
+xfce4-panel: No window manager registered on screen 0. To start the panel without this check, run with --disable-wm-check.
+
+(nm-applet:1007): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(pamac-tray:902): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(pa-applet:1077): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(blueman-applet:963): Gdk-CRITICAL **: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+19:36:42: Warning: Mismatch between the program and library build versions detected.
+The library used 3.0 (wchar_t,compiler with C++ ABI 1009,wx containers,compatible with 2.8),
+and your program used 3.0 (wchar_t,compiler with C++ ABI 1010,wx containers,compatible with 2.8).
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+Cairo.Surface is leaking, programmer is missing a call to Dispose
+Set MONO_CAIRO_DEBUG_DISPOSE to track allocation traces
+gpg-agent[809]: SIGTERM received - shutting down ...
+gpg-agent[809]: gpg-agent (GnuPG) 2.1.12 stopped
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
